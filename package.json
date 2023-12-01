@@ -1,0 +1,22 @@
+{
+  "name": "automationchallenge",
+  "version": "1.0.0",
+  "description": "test challenge",
+  "main": "index.js",
+  "scripts": {
+    "test": "testrun"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Brandon98MAns/TestTaskQAAutomation.git"
+  },
+  "author": "Brandon Mansfield",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Brandon98MAns/TestTaskQAAutomation/issues"
+  },
+  "homepage": "https://github.com/Brandon98MAns/TestTaskQAAutomation#readme",
+  "dependencies": {
+    "bash": "^0.0.1"
+  }
+}
